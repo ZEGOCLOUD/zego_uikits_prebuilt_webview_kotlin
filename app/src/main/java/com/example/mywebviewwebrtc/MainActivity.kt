@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.mywebviewwebrtc
 
 import android.Manifest
 import android.annotation.TargetApi
@@ -14,7 +14,6 @@ import android.webkit.WebChromeClient
 import android.webkit.WebView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
-import com.example.mywebviewwebrtc.R
 
 
 class MainActivity : AppCompatActivity() {
